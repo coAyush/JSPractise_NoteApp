@@ -112,7 +112,7 @@ body.dark #search input {
 #add{
      height: 90px;
     width: 90px;
-
+    overflow: hidden;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -164,6 +164,7 @@ body.dark #search input {
     border: none;
     resize: none;
     color: white;
+    overflow: hidden;
     font-family: inherit;
 }
 
